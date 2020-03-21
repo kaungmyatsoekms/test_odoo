@@ -1,2 +1,3 @@
 id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
 access_test_odoo_test_odoo,test_odoo.test_odoo,model_test_odoo_test_odoo,base.group_user,1,1,1,1
+access_hotel_config,hotel_config,model_hotel_config,base.group_user,1,1,1,1
